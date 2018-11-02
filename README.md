@@ -10,6 +10,7 @@
 |Jump Game II|
 |[Spiral Maxtrix II](https://leetcode.com/problems/spiral-matrix-ii/discuss/22282/4-9-lines-Python-solutions)|
 |Unique Path II|
-| Minimum Path Sum |
-| Plus One |
+|Minimum Path Sum|
+|Plus One|
 |Set Matrix Zeroes|
+|Search a 2D Matrix|
