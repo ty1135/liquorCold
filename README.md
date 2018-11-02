@@ -15,3 +15,4 @@
 |Set Matrix Zeroes|
 |Search a 2D Matrix|
 |Subsets|
+|Word Search|
