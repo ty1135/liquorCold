@@ -19,3 +19,4 @@
 |Remove Duplicates from Sorted Array II(i dont't like it)|
 |Search in Rotated Sorted Array II|
 |[Largest Rectangle in Histogram ](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)|
+|Construct Binary Tree from Preorder and Inorder Traversal|
