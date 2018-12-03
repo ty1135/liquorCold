@@ -22,5 +22,6 @@
 |Construct Binary Tree from Preorder and Inorder Traversal|
 |[&above](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|
 |[pascals triangle](https://leetcode.com/problems/pascals-triangle-ii/)|
-|triangle|(https://leetcode.com/problems/triangle/)
-|Best Time to Buy and Sell Stock|(https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+| triangle|(https://leetcode.com/problems/triangle/)
+| Best Time to Buy and Sell Stock |(https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)
+| Maximum Product Subarray |
